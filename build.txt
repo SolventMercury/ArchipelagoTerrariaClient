@@ -1,0 +1,3 @@
+displayName = Archipelago for Terraria
+author = SolventMercury
+version = dev v3
