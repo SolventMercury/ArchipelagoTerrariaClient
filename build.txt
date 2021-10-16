@@ -1,4 +1,4 @@
 displayName = Archipelago for Terraria
 author = SolventMercury
-version = 0.0.4
+version = 0.3.0
 dllReferences = Archipelago.MultiClient.Net, websocket-sharp
